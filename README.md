@@ -1,10 +1,17 @@
 # -REDESIGN-A-WEBSITE-LANDING-PAGE
+
 **Company Name**:CODTECH IT SOLUTION PVT.Ltd
+
 **NAME** :Khule Nityanand Ganesh
+
 **INTERN ID**:CT06DN1653
+
 **DOMAIN**::UI/UX Design
+
 **DURATION**: 6 WEEKS
+
 **MENTOR**: NEELA SANTOSH
+
 # UI/UX Redesign Description –
 
 The existing user interface (UI) of the application, as seen in the provided screenshots, represents an early-stage or basic design that lacks modern aesthetics, visual hierarchy, and intuitive usability. The goal of the redesign is to transform this outdated interface into a clean, user-friendly, and modern application that follows current UI/UX best practices while maintaining functionality and accessibility.
@@ -22,3 +29,7 @@ The redesign also introduces a consistent visual language across all screens —
 From a UX perspective, the flow has been simplified. Each screen guides the user naturally toward the intended action, whether it's logging in, browsing categories, or placing an order. The call-to-action buttons are prominent and clearly labeled, reducing confusion and increasing task completion rates.
 
 In conclusion, the redesigned UI is minimalistic, modern, and highly user-centric. It eliminates unnecessary complexity, aligns with current design trends, and ensures a smooth and visually pleasant experience for all users. This overhaul not only enhances usability and aesthetics but also builds a strong visual identity for the application, paving the way for a more professional and scalable digital product.
+
+## OUTPUT -
+
+[uiux24.pdf](https://github.com/user-attachments/files/20750916/uiux24.pdf)
